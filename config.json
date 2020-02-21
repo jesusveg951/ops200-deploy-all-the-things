@@ -1,7 +1,5 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://calm-tundra-70880.herokuapp.com/",
+  "change_calculator": "https://mighty-mesa-17943.herokuapp.com/",
+  "budget_tracker": "https://whispering-cove-34458.herokuapp.com/"
 }
